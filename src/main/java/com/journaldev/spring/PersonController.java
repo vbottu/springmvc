@@ -16,7 +16,7 @@ import com.journaldev.spring.service.PersonService;
 public class PersonController {
 	
 	private PersonService personService;
-	
+	String hello;
 	@Autowired(required=true)
 	@Qualifier(value="personService")
 	public void setPersonService(PersonService ps){
