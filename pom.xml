@@ -15,11 +15,11 @@
 		<hibernate.version>4.3.5.Final</hibernate.version>
 	</properties>
       <distributionManagement>
-    <snapshotRepository>
+    /*<snapshotRepository>
         <id>snapshots</id>
         <name>myartifactory-snapshots</name>
         <url>https://myartifactory.jfrog.io/myartifactory/libs-snapshot-local/</url>
-    </snapshotRepository>
+    </snapshotRepository>*/
    </distributionManagement>
 	<dependencies>
 		<!-- Spring -->
