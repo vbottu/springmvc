@@ -14,13 +14,7 @@
 		<org.slf4j-version>1.7.5</org.slf4j-version>
 		<hibernate.version>4.3.5.Final</hibernate.version>
 	</properties>
-      <distributionManagement>
-    /*<snapshotRepository>
-        <id>snapshots</id>
-        <name>myartifactory-snapshots</name>
-        <url>https://myartifactory.jfrog.io/myartifactory/libs-snapshot-local/</url>
-    </snapshotRepository>*/
-   </distributionManagement>
+    
 	<dependencies>
 		<!-- Spring -->
 		<dependency>
